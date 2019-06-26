@@ -1,0 +1,19 @@
+
+<?php
+include("connection.php");
+
+
+	?>
+	<html>
+<head>
+
+
+<body style="background-color:powderblue;">
+<h1 align="center">Credit Transfer Management</h1><br>
+<a href="2.htm"><p style="text-align:center">Home</a>
+<a href="view users.php"><p style="text-align:center">View users</a>
+
+</body>
+</head>
+</html>
+	
